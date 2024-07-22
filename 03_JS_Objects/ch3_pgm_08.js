@@ -15,9 +15,9 @@ console.log(book.published);
 var book2;
 
 book = {
-	title     : "The art of brave",
-	  author    : "Jenny lerew",
-	  published : 1937
+	title     : "To Kill a Mockingbird",
+	  author    : "Harper Lee",
+	  published : 1960
   };
 
 console.log(book2.title);
